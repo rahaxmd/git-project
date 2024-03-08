@@ -11,3 +11,4 @@ MY TO-DO LIST
 3.git add & commit
 4.git branch & switch
 5.git diff
+6.git ignore
