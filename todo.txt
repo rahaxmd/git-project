@@ -7,3 +7,4 @@ MY TO-DO LIST
 6. Apply for remote jobs.
 
 1.git init
+2.git status
