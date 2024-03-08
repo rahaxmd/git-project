@@ -10,3 +10,4 @@ MY TO-DO LIST
 2.git status
 3.git add & commit
 4.git branch & switch
+7. Practice code
